@@ -1,0 +1,29 @@
+body {
+    background-color: #ffff;
+    margin: 0px auto;
+}
+
+.top-banner {
+    width: 1321px;
+    height: 646px;
+    background: #161616;
+    border-radius: 30px;
+    color: #ffff;
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.top-banner-text {
+    width: 531px;
+    height: 424px;
+}
+
+.top-banner-img {
+    width: 581px;
+    height: 613px;
+
+}
+
+.top-banner-img img {
+    width: 100%;
+}
