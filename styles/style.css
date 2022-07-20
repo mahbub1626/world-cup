@@ -1,0 +1,79 @@
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+/* --------------------------
+common style or utilities
+--------------------------- */
+body {
+    background-color: rgb(208, 237, 255);
+    font-family: 'Poppins', sans-serif;
+    /* margin: 0; */
+}
+
+main {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+}
+
+/*-------------------
+    top banner
+ ------------------ */
+
+.top-banner {
+    width: 1321px;
+    height: 646px;
+    background: #161616;
+    border-radius: 30px;
+    color: #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.top-banner-text {
+    width: 531px;
+    height: 424px;
+}
+
+.top-banner-text h1 {
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 70px;
+    margin: 0;
+}
+
+.top-banner-text p {
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 30px;
+    padding-right: 40px;
+    text-align: justify;
+}
+
+.top-banner-text a {
+    padding: 11px 19px;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: #2c60ce;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+
+.top-banner-img {
+    width: 581px;
+    height: 613px;
+}
+
+.top-banner-img img {
+    width: 100%;
+    padding-top: 18px;
+}
+
+/* --------------------
+      Middle part
+-------------------- */
