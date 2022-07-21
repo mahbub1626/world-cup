@@ -22,6 +22,11 @@ main {
     display: flex;
     justify-content: center;
     margin-bottom: 130px;
+
+}
+
+.container:last-child {
+    margin-bottom: 0px;
 }
 
 /*-------------------
@@ -110,6 +115,10 @@ main {
     background: #FFFFFF;
     border-radius: 10px;
     text-align: center;
+}
+
+#part-blog {
+    background-color: red;
 }
 
 .part a {
@@ -203,6 +212,10 @@ middle-part-right
     text-decoration: none;
     color: #B9B9B9;
     margin: 15px;
+}
 
-
+.social-media-icon {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 25px;
 }
