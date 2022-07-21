@@ -286,6 +286,10 @@ middle-part-right
         height: fit-content;
     }
 
+    .top-banner-img img {
+        padding-top: 217px;
+    }
+
     .top-banner-text {
         margin-left: 30px;
     }
