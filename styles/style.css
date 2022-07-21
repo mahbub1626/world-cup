@@ -121,6 +121,10 @@ main {
     background-color: red;
 }
 
+#part-blog a h2 {
+    color: white;
+}
+
 .part a {
     text-decoration: none;
 
